@@ -6,7 +6,7 @@
 
 using namespace std;
 
-int main()
+int _P51()
 {
 	for (int i = 1; i <= 9;i++)
 	{
