@@ -12,7 +12,7 @@ int sum(int a = 3, int b = 4, int c = 5)
 	return a + b + c;
 }
 
-int main()
+int _P68()
 {
 	cout << "不给予参数，使用默认参数： " << sum() << endl << endl;
 	cout << "使用参数a=6，b=8，c=10： " << sum(6, 8, 10) << endl;
