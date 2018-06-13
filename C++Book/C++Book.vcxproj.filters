@@ -30,6 +30,9 @@
     <ClCompile Include="P69.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="P75.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="ClassDiagram.cd" />

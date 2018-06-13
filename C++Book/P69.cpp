@@ -13,7 +13,7 @@ T myAbs(T parm)
 	return parm > 0 ? parm : -parm;
 }
 
-int main()
+int _P69()
 {
 	int i = 50;
 	float f = -3.25f;
@@ -24,4 +24,6 @@ int main()
 	cout << myAbs(l) << endl;
 
 	cin >> i;
+
+	return 0;
 }
