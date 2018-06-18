@@ -25,7 +25,8 @@ void hanoi(int n, char one, char two, char three)
 	}
 }
 
-int main()
+
+int _P75()
 {
 	int n;
 	cout << "Input n:" << endl;

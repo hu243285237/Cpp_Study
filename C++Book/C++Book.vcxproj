@@ -70,6 +70,7 @@
     <ClCompile Include="P68.cpp" />
     <ClCompile Include="P69.cpp" />
     <ClCompile Include="P75.cpp" />
+    <ClCompile Include="P93.cpp" />
   </ItemGroup>
   <ItemGroup>
     <None Include="ClassDiagram.cd" />
