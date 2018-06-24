@@ -64,6 +64,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="P123.cpp" />
     <ClCompile Include="P28.cpp" />
     <ClCompile Include="P32.cpp" />
     <ClCompile Include="P51.cpp" />

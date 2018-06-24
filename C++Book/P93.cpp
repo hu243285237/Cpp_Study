@@ -7,7 +7,7 @@
 
 using namespace std;
 
-int main()
+int _P93()
 {
 	int i;
 	int f[20] = { 1, 1 };
@@ -24,4 +24,6 @@ int main()
 	}
 
 	cin >> i;
+
+	return 0;
 }
