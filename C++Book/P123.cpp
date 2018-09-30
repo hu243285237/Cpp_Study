@@ -1,50 +1,27 @@
 //////////////////////////////////////////////////////////
-//	½«Êı×é°´Ïà·´Ë³Ğò´æ·Å£¬¼´µÚÒ»¸öÔªËØºÍ×îºóÒ»¸öÔªËØ»¥»»£¬
-//	ÒÔ´ËÀàÍÆÖÁÖĞ¼äÔªËØÎªÖ¹
+//	å°†æ•°ç»„æŒ‰ç›¸åé¡ºåºå­˜æ”¾ï¼Œå³ç¬¬ä¸€ä¸ªå…ƒç´ å’Œæœ€åä¸€ä¸ªå…ƒç´ äº’æ¢ï¼Œ
+//	ä»¥æ­¤ç±»æ¨è‡³ä¸­é—´å…ƒç´ ä¸ºæ­¢
 //////////////////////////////////////////////////////////
 
-//2018.6.24 19:26 »¹ÓĞÎÊÌâ
-
 #include <iostream>
+#include <algorithm>
 
 using namespace std;
-
-//µÃµ½Êı×é³¤¶Èº¯Êı
-template <class T>
-int getLength(T& array)
-{
-	return (sizeof(array) / sizeof(array[0]));
-}
-
-//½»»»
-void MyReverse(int *array)
-{
-	int *p, temp, *i, *j, m = (getLength(array) - 1) / 2;
-
-	i = array; j = array + getLength(array) - 1; p = array + m;
-
-	for (; i <= p; i++,j--)
-	{
-		temp = *i;
-		*i = *j;
-		*j = temp;
-	}
-}
 
 int main()
 {
 	int myArray[10] = { 3, 5, 7, 8, 12, 31, 52, 64, 24, 10 };
 
-	cout << "Ô­Ê¼µÄÊı×éÎª£º" << endl;
+	cout << "åŸå§‹çš„æ•°ç»„ä¸ºï¼š" << endl;
 	for each (int i in myArray)
 	{
-		cout << i << ",";//²»ÄÜÖ±½ÓÓÃi+","
+		cout << i << ",";
 	}
 	cout << endl << endl;
 
-	MyReverse(myArray);
+	reverse(myArray, &myArray[10]);
 
-	cout << "½»»»ºóµÄÊı×éÎª£º" << endl;
+	cout << "äº¤æ¢åçš„æ•°ç»„ä¸ºï¼š" << endl;
 	for each (int i in myArray)
 	{
 		cout << i << ",";
