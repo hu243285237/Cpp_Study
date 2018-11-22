@@ -19,21 +19,17 @@ class Solution
     
     ListNode* deleteDuplicates(ListNode* head)
     {
-        ListNode* temp1 = head;
-        ListNode* temp2 = head;
+        ListNode* temp = head;
         
-        while (temp1 && temp1->next)
+        while (temp && temp->next)
         {
-            temp1 = temp1->next;
-            
-            if (temp2->val != temp1->val)
+            if (temp->val == temp->next->val)
             {
-                temp2->next = temp1;
-                temp2 = temp1;
+                temp->next = temp->next->next;
             }
-            else if (temp1->next == nullptr)
+            else
             {
-                temp2->next = nullptr;
+                temp = temp->next;
             }
         }
         
