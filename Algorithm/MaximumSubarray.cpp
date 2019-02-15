@@ -12,23 +12,14 @@ class Solution
     
     int maxSubArray(vector<int>& nums) 
     {
-        int max = INT_MIN;
+        int max = nums[0];
+        int n = nums[0];
         
-        int current;
-        
-        for (int i = 0; i < nums.size(); i++)
+        for (int i = 1; i < nums.size(); i++)
         {
-            current = 0;
+            n = n > 0 ? n + nums[i] : nums[i];
             
-            for (int j = i; j < nums.size(); j++)
-            {
-                current += nums[j];
-                
-                if (current > max)
-                {
-                    max = current;
-                }
-            }
+            if (n > max) max = n;
         }
         
         return max;
