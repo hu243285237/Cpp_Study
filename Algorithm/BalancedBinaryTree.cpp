@@ -26,7 +26,7 @@ class Solution
         
         if (abs(GetDepth(root->left) - GetDepth(root->right)) < 2)
         {
-            return isBalanced(root->left) && isBalanced(root->right);;
+            return isBalanced(root->left) && isBalanced(root->right);
         }
         
         return false;
