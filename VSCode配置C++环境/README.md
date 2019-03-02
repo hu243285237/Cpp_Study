@@ -32,7 +32,7 @@ https://osdn.net/projects/mingw/releases/
 
 5.然后点击左上角的"Installation/Apply Changes"，点击Apply，等待安装完成
 
-6.配置环境变量
+6.配置环境变量（注意我MinGW是装在D盘）
 
 ![ScreenShot](https://github.com/hu243285237/Cpp_Study/blob/master/VSCode%E9%85%8D%E7%BD%AEC%2B%2B%E7%8E%AF%E5%A2%83/ScreenShot/ScreenShot05.png)
 
