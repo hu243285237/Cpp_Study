@@ -1,59 +1,59 @@
-# VSCodeÅäÖÃC++»·¾³
+# VSCodeé…ç½®C++ç¯å¢ƒ
 
-1.ÏÂÔØVSCode²¢°²×°£º
+1.ä¸‹è½½VSCodeå¹¶å®‰è£…ï¼š
 
 https://code.visualstudio.com/
 
-2.µã»÷×ó²àExtensionsÑ¡Ïî£¬ËÑË÷C/C++²¢ÏÂÔØ°²×°
+2.ç‚¹å‡»å·¦ä¾§Extensionsé€‰é¡¹ï¼Œæœç´¢C/C++å¹¶ä¸‹è½½å®‰è£…
 
-![ScreenShot](https://github.com/hu243285237/Cpp_Study/VSCodeÅäÖÃC++»·¾³/ScreenShot/blob/master/Screenshot01.png)
+![ScreenShot](https://github.com/hu243285237/Cpp_Study/blob/master/VSCode%E9%85%8D%E7%BD%AEC%2B%2B%E7%8E%AF%E5%A2%83/ScreenShot/ScreenShot01.png)
 
-3.ÏÂÔØC/C++µÄ±àÒë»·¾³MinGW²¢°²×°£º
+3.ä¸‹è½½C/C++çš„ç¼–è¯‘ç¯å¢ƒMinGWå¹¶å®‰è£…ï¼š
 
 https://osdn.net/projects/mingw/releases/
 
-£¨ÍøÕ¾ÓĞÊ±»áÉÏ²»È¥£¬ÎÒÎªÁËÊÀ½çµÄºÍÆ½ÒÑ°ÑËüÉÏ´«Github£©
+ï¼ˆç½‘ç«™æœ‰æ—¶ä¼šä¸Šä¸å»ï¼Œæˆ‘ä¸ºäº†ä¸–ç•Œçš„å’Œå¹³å·²æŠŠå®ƒä¸Šä¼ Githubï¼‰
 
-![ScreenShot](https://github.com/hu243285237/Cpp_Study/VSCodeÅäÖÃC++»·¾³/ScreenShot/blob/master/Screenshot02.png)
+![ScreenShot](https://github.com/hu243285237/Cpp_Study/blob/master/VSCode%E9%85%8D%E7%BD%AEC%2B%2B%E7%8E%AF%E5%A2%83/ScreenShot/ScreenShot02.png)
 
-4.°²×°Íê±Ïºó»á×Ô¶¯´ò¿ª¸öMinGW Installation ManagerµÄÍæÒâ
+4.å®‰è£…å®Œæ¯•åä¼šè‡ªåŠ¨æ‰“å¼€ä¸ªMinGW Installation Managerçš„ç©æ„
 
-ÎÒÃÇÖ»Ğè¹´Ñ¡Èı´¦£¨ÆäÊµ¹´Ò»¸öµØ·½»á×Ô¶¯Ñ¡ÔñÆäËûºÃ¼¸Ïî£©
+æˆ‘ä»¬åªéœ€å‹¾é€‰ä¸‰å¤„ï¼ˆå…¶å®å‹¾ä¸€ä¸ªåœ°æ–¹ä¼šè‡ªåŠ¨é€‰æ‹©å…¶ä»–å¥½å‡ é¡¹ï¼‰
 
-"All Packages/MinGW/MinGW Base System"ÀïÃæµÄmingw32-gdb-bin
+"All Packages/MinGW/MinGW Base System"é‡Œé¢çš„mingw32-gdb-bin
 
-"All Packages/MinGW/MinGW Base System/MinGW Compiler Suite"ÀïÃæµÄmingw32-gcc-bin
+"All Packages/MinGW/MinGW Base System/MinGW Compiler Suite"é‡Œé¢çš„mingw32-gcc-bin
 
-"All Packages/MinGW/MinGW Base System/MinGW Compiler Suite"ÀïÃæµÄmingw32-gcc-g++-bin
+"All Packages/MinGW/MinGW Base System/MinGW Compiler Suite"é‡Œé¢çš„mingw32-gcc-g++-bin
 
-![ScreenShot](https://github.com/hu243285237/Cpp_Study/VSCodeÅäÖÃC++»·¾³/ScreenShot/blob/master/Screenshot03.png)
+![ScreenShot](https://github.com/hu243285237/Cpp_Study/blob/master/VSCode%E9%85%8D%E7%BD%AEC%2B%2B%E7%8E%AF%E5%A2%83/ScreenShot/ScreenShot03.png)
 
-![ScreenShot](https://github.com/hu243285237/Cpp_Study/VSCodeÅäÖÃC++»·¾³/ScreenShot/blob/master/Screenshot04.png)
+![ScreenShot](https://github.com/hu243285237/Cpp_Study/blob/master/VSCode%E9%85%8D%E7%BD%AEC%2B%2B%E7%8E%AF%E5%A2%83/ScreenShot/ScreenShot04.png)
 
-5.È»ºóµã»÷×óÉÏ½ÇµÄ"Installation/Apply Changes"£¬µã»÷Apply£¬µÈ´ı°²×°Íê³É
+5.ç„¶åç‚¹å‡»å·¦ä¸Šè§’çš„"Installation/Apply Changes"ï¼Œç‚¹å‡»Applyï¼Œç­‰å¾…å®‰è£…å®Œæˆ
 
-6.ÅäÖÃ»·¾³±äÁ¿
+6.é…ç½®ç¯å¢ƒå˜é‡
 
-![ScreenShot](https://github.com/hu243285237/Cpp_Study/VSCodeÅäÖÃC++»·¾³/ScreenShot/blob/master/Screenshot05.png)
+![ScreenShot](https://github.com/hu243285237/Cpp_Study/blob/master/VSCode%E9%85%8D%E7%BD%AEC%2B%2B%E7%8E%AF%E5%A2%83/ScreenShot/ScreenShot05.png)
 
-£¨ÅäÖÃÍê³Éºó¿ÉÒÔÔÚcmdÓÃ"gcc -v"»òÕß"g++ -v"¼ì²éÊÇ·ñÅäÖÃ³É¹¦£©
+ï¼ˆé…ç½®å®Œæˆåå¯ä»¥åœ¨cmdç”¨"gcc -v"æˆ–è€…"g++ -v"æ£€æŸ¥æ˜¯å¦é…ç½®æˆåŠŸï¼‰
 
-7.µ½ÏÖÔÚÎªÖ¹µçÄÔµÄ»·¾³¶¼ÒÑÅäÖÃºÃÁË£¬ÏÖÔÚ»¹²î¹¤³ÌµÄÅäÖÃ
+7.åˆ°ç°åœ¨ä¸ºæ­¢ç”µè„‘çš„ç¯å¢ƒéƒ½å·²é…ç½®å¥½äº†ï¼Œç°åœ¨è¿˜å·®å·¥ç¨‹çš„é…ç½®
 
-ÔÚ×ÀÃæĞÂ½¨Ò»¸öÎÄ¼ş¼Ğ£¬È»ºóÓÃVSCode´ò¿ªÕâ¸öÎÄ¼ş¼Ğ£¬È»ºó´´½¨Ò»¸ö¼òµ¥µÄcppÎÄ¼ş£¬ÃüÃûÎªtest.cpp
+åœ¨æ¡Œé¢æ–°å»ºä¸€ä¸ªæ–‡ä»¶å¤¹ï¼Œç„¶åç”¨VSCodeæ‰“å¼€è¿™ä¸ªæ–‡ä»¶å¤¹ï¼Œç„¶ååˆ›å»ºä¸€ä¸ªç®€å•çš„cppæ–‡ä»¶ï¼Œå‘½åä¸ºtest.cpp
 
-![ScreenShot](https://github.com/hu243285237/Cpp_Study/VSCodeÅäÖÃC++»·¾³/ScreenShot/blob/master/Screenshot06.png)
+![ScreenShot](https://github.com/hu243285237/Cpp_Study/blob/master/VSCode%E9%85%8D%E7%BD%AEC%2B%2B%E7%8E%AF%E5%A2%83/ScreenShot/ScreenShot06.png)
 
-8.µã»÷VSCodeÉÏ·½µÄ"Terminal/New Terminal"£¬ÉèÖÃÒÔcmdÆô¶¯£¬ÊäÈëÒÔÏÂÖ¸Áî¼´¿ÉÔËĞĞ³ÌĞò
+8.ç‚¹å‡»VSCodeä¸Šæ–¹çš„"Terminal/New Terminal"ï¼Œè®¾ç½®ä»¥cmdå¯åŠ¨ï¼Œè¾“å…¥ä»¥ä¸‹æŒ‡ä»¤å³å¯è¿è¡Œç¨‹åº
 
 g++ test.cpp -o myTestExe
 
 .\myTestExe
 
-¼´¿É¿´µ½Êä³ö½á¹û
+å³å¯çœ‹åˆ°è¾“å‡ºç»“æœ
 
-![ScreenShot](https://github.com/hu243285237/Cpp_Study/VSCodeÅäÖÃC++»·¾³/ScreenShot/blob/master/Screenshot07.png)
+![ScreenShot](https://github.com/hu243285237/Cpp_Study/blob/master/VSCode%E9%85%8D%E7%BD%AEC%2B%2B%E7%8E%AF%E5%A2%83/ScreenShot/ScreenShot07.png)
 
-9.µ½ÉÏÒ»²½ÒÑ¾­½áÊø£¬Èç¹û³öÏÖÒıÓÃÕÒ²»µ½Ö®ÀàµÄÇé¿ö£¬°ÑÕâ¸öc_cpp_properties.jsonÎÄ¼ş£¨ÔÚ±¾GithubÕÒ£©´´½¨»òÕß¸²¸Çµ½.vscodeÎÄ¼ş¼ĞÀï£¬×¢ÒâÂ·¾¶£¬ÎÒMinGWÊÇ°²×°ÔÚDÅÌ
+9.åˆ°ä¸Šä¸€æ­¥å·²ç»ç»“æŸï¼Œå¦‚æœå‡ºç°å¼•ç”¨æ‰¾ä¸åˆ°ä¹‹ç±»çš„æƒ…å†µï¼ŒæŠŠè¿™ä¸ªc_cpp_properties.jsonæ–‡ä»¶ï¼ˆåœ¨æœ¬Githubæ‰¾ï¼‰åˆ›å»ºæˆ–è€…è¦†ç›–åˆ°.vscodeæ–‡ä»¶å¤¹é‡Œï¼Œæ³¨æ„è·¯å¾„ï¼Œæˆ‘MinGWæ˜¯å®‰è£…åœ¨Dç›˜
 
-![ScreenShot](https://github.com/hu243285237/Cpp_Study/VSCodeÅäÖÃC++»·¾³/ScreenShot/blob/master/Screenshot08.png)
+![ScreenShot](https://github.com/hu243285237/Cpp_Study/blob/master/VSCode%E9%85%8D%E7%BD%AEC%2B%2B%E7%8E%AF%E5%A2%83/ScreenShot/ScreenShot08.png)
